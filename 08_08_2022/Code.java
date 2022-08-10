@@ -138,7 +138,7 @@ public class Code {
     }
 
     public static void main (String[] args){
-        //test_quadraticEquation();
+        test_quadraticEquation();
         test_checkPerfect();
     }
 }
